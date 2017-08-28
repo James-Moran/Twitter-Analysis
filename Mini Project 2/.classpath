@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_JsonReaderExample/lib/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_JsonReaderExample/lib/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/cs/home/jm361/workspace_linux/CS2101_MapReduce_MultiThreaded_Example/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/hadoop-core-1.2.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://hadoop.apache.org/docs/r1.2.1/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultipleRunningMappers_Example/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/hadoop-core-1.2.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://hadoop.apache.org/docs/r1.2.1/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/CS2101_MapReduce_MultiThreaded_Example/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
